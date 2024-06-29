@@ -22537,6 +22537,7 @@ h5, .h5 {
   padding: 24px 35px;
   margin-top: -50px;
   z-index: 99;
+  margin-bottom: -100px;
 }
 @media (min-width: 992px) {
   .about-card {
